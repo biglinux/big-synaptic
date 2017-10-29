@@ -1,0 +1,6 @@
+639ea9d2c66fed027cfb0abb8588dc92  DEBIAN/control
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/big-synaptic.pot
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/languages
+12f67d8165c9cb32e64475633d369230  usr/bin/bigsynaptic-autoclose
+dea8dd9c4d790c93a6ae7f0e4c11cb30  usr/bin/bigsynaptic
